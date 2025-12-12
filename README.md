@@ -2,7 +2,7 @@
 
 > "`Security is a process, not a product.`" — Bruce Schneier.
 
-Hai! Saya **Farhan**, seorang penggemar keamanan siber yang didorong oleh rasa ingin tahu dan kafein. Saya suka membedah sistem secara legal, mencari bug, dan memecahkan tantangan dalam kompetisi Capture The Flag (CTF). Bagi saya, memahami bagaimana sesuatu bisa rusak adalah langkah pertama untuk membangun pertahanan yang lebih kuat.
+Hai! Saya **Farhan**, seorang penggemar keamanan siber yang didorong oleh rasa ingin tahu. Saya suka membedah sistem secara legal, mencari bug, dan memecahkan tantangan dalam kompetisi Capture The Flag (CTF). Bagi saya, memahami bagaimana sesuatu bisa rusak adalah langkah pertama untuk membangun pertahanan yang lebih kuat.
 
 **Always learning. Always hacking. 🔥**
 
