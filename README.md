@@ -56,13 +56,3 @@ Mari berkolaborasi, membahas keamanan, atau sekadar berbagi temuan keren!
 </p>
 
 ---
-
-## 🧭 Jalur Pembelajaran & Tujuan
-
-- [ ] **Saat ini Fokus:** Keamanan Aplikasi Web & Pengujian Penetrasi Tingkat Lanjut.
-
-- [ ] **Pembelajaran:** Pengembangan Eksploitasi (x86/x64) dan teknik serangan Active Directory.
-
-- [ ] **Tujuan untuk 2025:** Meraih sertifikasi dan berkontribusi pada alat keamanan sumber terbuka.
-
----
