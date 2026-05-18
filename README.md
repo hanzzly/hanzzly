@@ -2,7 +2,7 @@
 
 Siswa TKJ di **SMK Telkom Malang** yang suka dunia keamanan siber. Bukan karena disuruh — tapi karena emang penasaran gimana sistem bisa dibobol, dan lebih penasaran lagi gimana cara nutupnya.
 
-Tahun depan saya ingin lanjut ke expertise **Cyber Security**, dan sambil nunggu itu, saya isi waktu dengan ngulik CTF, hunting bug, dan eksplorasi hal-hal yang belum saya pahami. Masih banyak yang harus dipelajari, dan itu justru yang bikin seru.
+Tahun depan saya ingin lanjut ke expertise **Cyber Security**, dan sambil nunggu itu, saya isi waktu dengan bermain CTF, hunting bug, dan eksplorasi hal-hal yang belum saya pahami. Masih banyak yang harus dipelajari, dan itu yang menurut saya seru.
 
 > *"Security is a process, not a product."* — Bruce Schneier
 
@@ -10,12 +10,12 @@ Tahun depan saya ingin lanjut ke expertise **Cyber Security**, dan sambil nunggu
 
 ## Tentang Saya
 
-Nama lengkap saya **Farhan Auliya Abrar**. Sehari-hari saya lebih banyak ngulik di terminal daripada scrolling medsos — walau Instagram tetap jalan 😄
+Nama lengkap saya **Farhan Auliya Abrar**. Sehari-hari saya lebih banyak menatap terminal daripada scrolling medsos meski tetep sering di Instagram :)
 
 Hal-hal yang lagi saya kejar sekarang:
-- Makin dalam di **web exploitation** dan **network security**
-- Konsisten ikut kompetisi **CTF** buat ngasah insting
-- Belajar nulis tools sendiri biar nggak selalu bergantung yang udah ada
+- Mendalami di **web exploitation**
+- Konsisten ikut kompetisi **CTF** buat mengasah skill
+- Belajar nulis tools sendiri agar nggak selalu bergantung sama yang udah ada
 
 ---
 
@@ -23,7 +23,7 @@ Hal-hal yang lagi saya kejar sekarang:
 
 ### Bahasa Pemrograman
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
 
 ### Tools Keamanan
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B6B?style=flat&logo=portswigger&logoColor=white)
