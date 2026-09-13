@@ -1,8 +1,6 @@
 # Hey, saya Farhan 👋
 
-Siswa TKJ di **SMK Telkom Malang** yang suka dunia keamanan siber. Bukan karena disuruh — tapi karena emang penasaran gimana sistem bisa dibobol, dan lebih penasaran lagi gimana cara nutupnya.
-
-Tahun depan saya ingin lanjut ke expertise **Cyber Security**, dan sambil nunggu itu, saya isi waktu dengan bermain CTF, hunting bug, dan eksplorasi hal-hal yang belum saya pahami. Masih banyak yang harus dipelajari, dan itu yang menurut saya seru.
+Siswa TKJ di **SMK Telkom Malang** dengan expertise **Cyber Security**. saya suka isi waktu dengan bermain CTF, hunting bug, dan eksplorasi hal-hal yang belum saya pahami. Masih banyak yang harus dipelajari, dan itu yang menurut saya lumayan seru.
 
 > *"Security is a process, not a product."* — Bruce Schneier
 
@@ -10,16 +8,13 @@ Tahun depan saya ingin lanjut ke expertise **Cyber Security**, dan sambil nunggu
 
 ## Tentang Saya
 
-Nama lengkap saya **Farhan Auliya Abrar**. Sehari-hari saya lebih banyak menatap terminal daripada scrolling medsos meski tetep sering di Instagram :)
+Nama lengkap saya **Farhan Auliya Abrar**. Sehari-hari saya lebih banyak menatap terminal dan scrolling medsos :v
 
-Hal-hal yang lagi saya kejar sekarang:
+Hal-hal yang lagi saya kejar:
 - Mendalami di **web exploitation**
-- Konsisten ikut kompetisi **CTF** buat mengasah skill
-- Belajar nulis tools sendiri agar nggak selalu bergantung sama yang udah ada
+- Konsisten ikut kompetisi **CTF** 
 
 ---
-
-## Senjata Sehari-hari 🛠️
 
 ### Bahasa Pemrograman
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -52,7 +47,6 @@ Kalau mau diskusi soal security, share writeup CTF, atau sekadar ngobrol — pin
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hanz.ly)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fralyhn_)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rinwayz_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-auliya-4b1a01376/)
 
 ---
