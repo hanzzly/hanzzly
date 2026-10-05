@@ -2,7 +2,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjN0d283eGliNTdsd3V3bGd5d3VxOGE3eHJ1aWtrN3lrdTV1anZoMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y4nk5bgwpWL6T5Ax9y/giphy.gif" width="70"> Hello, I'm Farhan Auliya Abrar
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjN0d283eGliNTdsd3V3bGd5d3VxOGE3eHJ1aWtrN3lrdTV1anZoMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y4nk5bgwpWL6T5Ax9y/giphy.gif" width="70"> Hello, I'm Farhan
 
 Siswa TKJ di **SMK Telkom Malang** dengan fokus **Cyber Security**. Waktu luang saya habis buat main CTF, hunting bug, dan mengulik hal-hal yang belum saya pahami. Masih banyak yang harus dipelajari.
 
